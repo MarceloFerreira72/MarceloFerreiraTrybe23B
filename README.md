@@ -10,6 +10,8 @@ Eu sei que é cedo para falar de inspirações, estou no começo de minha carrei
 <br />
 Estou longe, mas cada fagulha de inspiração que eu sinto, me faz chegar mais perto do meu sonho.
 
+[![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloFerreiraTrybe23B)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Programming languages, frameworks and databases:
 
  - Unix
