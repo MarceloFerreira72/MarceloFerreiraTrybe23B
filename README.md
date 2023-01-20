@@ -1,6 +1,6 @@
 ## Sobre Mim:
 
-<a href="https://www.linkedin.com/in/devmarceloferreira/"><img alt="LinkedIn" src="https://avatars.githubusercontent.com/u/104790420?v=4" width="100px"/></a>
+<a href="https://www.linkedin.com/in/devmarceloferreira/" target="_blank"><img alt="LinkedIn" src="https://avatars.githubusercontent.com/u/104790420?v=4" width="100px"/></a>
 <br />
 Meu nome é Marcelo Ferreira e eu quero **inspirar** outras pessoas.
 <br />
