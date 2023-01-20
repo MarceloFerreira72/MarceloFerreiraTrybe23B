@@ -9,3 +9,25 @@ Eu sei que é cedo para falar de inspirações, estou no começo de minha carrei
 <br />
 <br />
 Estou longe, mas cada fagulha de inspiração que eu sinto, me faz chegar mais perto do meu sonho.
+
+### Programming languages, frameworks and databases:
+
+ - Unix
+ - Bash
+ - Git
+ - Github
+ - Internet
+ - HTML
+ - CSS
+ - Javascript
+ - React
+ - RTL
+ - Redux
+ - Context API
+ - Hooks
+ - Docker
+ - SQL
+ - Node
+ - MSC
+ - TypeScript
+ - POO.
